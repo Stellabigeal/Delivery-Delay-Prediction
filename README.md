@@ -150,6 +150,3 @@ Data Analyst / Machine Learning Enthusiast
 
 ## 📄 License
 This project is for educational and portfolio purposes.
-
-
-## 📂 Project Structure
